@@ -1,10 +1,10 @@
-# BlogSphere API
+# BlogSpace API
 
 **Backend Service for Blog-Type Social Media App**
 
 ## Overview
 
-BlogSphere is a robust backend service designed to power blog-type social media applications. It provides a scalable and secure infrastructure for managing users and blog posts.
+BlogSpace is a robust backend service designed to power blog-type social media applications. It provides a scalable and secure infrastructure for managing users and blog posts.
 
 ## Key Features
 
