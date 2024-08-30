@@ -1,0 +1,16 @@
+{
+  "name": "be-socialmedia",
+  "version": "1.0.0",
+  "description": "This is the Backend rest APIs of Social media",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
